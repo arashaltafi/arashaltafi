@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning Jetbrains Compose (:)
 - 👯 I’m looking to collaborate on Open Sources
 - 🤔 I’m looking for help with Android Performances
-- 💬 Ask me about Android Stuff or engineering in general
-- 📫 How to reach me: [www.sinadalvand.ir](https://sinadalvand.ir/) or [dalvandsina@yahoo.com](mailto:dalvandsina@yahoo.com)
+- 📫 How to reach me: [www.arashaltafi.ir](https://sinadalvand.ir/) or [arashaltafi1377@gmail.com](mailto:dalvandsina@yahoo.com)
 
 <a href="https://www.linkedin.com/in/sinadalvand">
   <img align="left" alt="Sina Dalvand's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
