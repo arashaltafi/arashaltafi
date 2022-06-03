@@ -20,13 +20,10 @@
 [![Arash Altafi GitHub Stats](https://github-readme-stats.vercel.app/api?username=arashaltafi&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true&line_height=40)](https://github.com/arashaltafi/arashaltafi)
 [![Arash Altafi Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arashaltafi&langs_count=5&theme=tokyonight&exclude_repo=SocketCpp,arashaltafi.github.io,DeveloperSite)](https://github.com/arashaltafi/arashaltafi)
 
-![Metrics](https://github.com/arashaltafi/arashaltafi/blob/main/github-metrics.svg)
-
-
 
 
 <!--
-**arashaltafi/arashaltafi** is b ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**arashaltafi/arashaltafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
