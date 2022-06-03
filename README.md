@@ -4,32 +4,29 @@
 - 🌱 I’m currently learning Jetbrains Compose (:)
 - 👯 I’m looking to collaborate on Open Sources
 - 🤔 I’m looking for help with Android Performances
-- 📫 How to reach me: [www.arashaltafi.ir](https://sinadalvand.ir/) or [arashaltafi1377@gmail.com](mailto:dalvandsina@yahoo.com)
+- 📫 How to reach me: [www.arashaltafi.ir](https://arashaltafi.ir/) or [arashaltafi1377@gmail.com](mailto:arashaltafi1377@gmail.com)
 
-<a href="https://www.linkedin.com/in/sinadalvand">
-  <img align="left" alt="Sina Dalvand's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/arashaltafi">
+  <img align="left" alt="Arash Altafi Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://twitter.com/DlvLogan">
-  <img align="left" alt="Sina Dalvand's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://t.me/logandlv">
-  <img align="left" alt="Sina Dalvand's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<a href="https://t.me/arash_altafi">
+  <img align="left" alt="Arash Altafi Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
 <br />
 <br />
 
 
-[![Sina Dalvand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinadalvand&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true&line_height=40)](https://github.com/sinadalvand/sinadalvand)
-[![Sina Dalvand' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinadalvand&langs_count=5&theme=tokyonight&exclude_repo=SocketCpp,sinadalvand.github.io,DeveloperSite)](https://github.com/sinadalvand/sinadalvand)
+[![Arash Altafi GitHub Stats](https://github-readme-stats.vercel.app/api?username=arashaltafi&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true&line_height=40)](https://github.com/arashaltafi/arashaltafi)
+[![Arash Altafi Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arashaltafi&langs_count=5&theme=tokyonight&exclude_repo=SocketCpp,arashaltafi.github.io,DeveloperSite)](https://github.com/arashaltafi/arashaltafi)
 
-![Metrics](https://github.com/sinadalvand/sinadalvand/blob/main/github-metrics.svg)
+![Metrics](https://github.com/arashaltafi/arashaltafi/blob/main/github-metrics.svg)
 
 
 
 
 <!--
-**sinadalvand/sinadalvand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**arashaltafi/arashaltafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
