@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my own projects
-- 🌱 I’m currently learning Jetbrains Compose (:)
 - 👯 I’m looking to collaborate on Open Sources
 - 🤔 I’m looking for help with Android Performances
 - 📫 How to reach me: [www.arashaltafi.ir](https://arashaltafi.ir/) or [arashaltafi1377@gmail.com](mailto:arashaltafi1377@gmail.com)
