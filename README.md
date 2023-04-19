@@ -4,6 +4,8 @@
 - 👯 I’m looking to collaborate on Open Sources
 - 📫 How to reach me: [www.arashaltafi.ir](https://arashaltafi.ir/) or [arashaltafi1377@gmail.com](mailto:arashaltafi1377@gmail.com)
 
+<img align="right" alt="GIF" src="https://github.com/mohammadazadbar1995/mohammadazadbar1995/blob/main/code.gif?raw=true" width="400" height="220" />
+
 <a href="https://www.linkedin.com/in/arashaltafi">
   <img align="left" alt="Arash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
