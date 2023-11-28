@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on my own projects
 - 👯 I’m looking to collaborate on Open Sources
 - 📫 How to reach me: [www.arashaltafi.ir](https://arashaltafi.ir/) or [arashaltafi1377@gmail.com](mailto:arashaltafi1377@gmail.com)
+-   NodeJs <img align="left" alt="Arash Altafi Telegram" width="22px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/node.png" />
 
 <a href="https://www.linkedin.com/in/arashaltafi">
   <img align="left" alt="Arash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/linkedin.png" />
@@ -21,22 +22,3 @@
 
 [![Arash Altafi GitHub Stats](https://github-readme-stats.vercel.app/api?username=arashaltafi&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true&line_height=40)](https://github.com/arashaltafi/arashaltafi)
 [![Arash Altafi Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arashaltafi&langs_count=5&theme=tokyonight&exclude_repo=SocketCpp,arashaltafi.github.io,DeveloperSite)](https://github.com/arashaltafi/arashaltafi)
-
-
-
-<!--
-**arashaltafi/arashaltafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about android , Maybe can help !
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
