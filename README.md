@@ -5,13 +5,13 @@
 - 📫 How to reach me: [www.arashaltafi.ir](https://arashaltafi.ir/) or [arashaltafi1377@gmail.com](mailto:arashaltafi1377@gmail.com)
 
 <a href="https://www.linkedin.com/in/arashaltafi">
-  <img align="left" alt="Arash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
+  <img align="left" alt="Arash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/linkedin.png" />
 </a>
 <a href="https://t.me/arash_altafi">
   <img align="left" alt="Arash Altafi Telegram" width="22px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/telegram.png" />
 </a>
 <a href="https://www.instagram.com/arashaltafi/">
-  <img align="left" alt="Arash's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Arash's Instagram" width="22px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/instagram.png" />
 </a>
 
 <br />
