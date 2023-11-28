@@ -10,7 +10,7 @@
 -   <img align="left" alt="Arash Altafi Telegram" width="22px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/node.png" /> NodeJs
 -   <img align="left" alt="Arash Altafi Telegram" width="22px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/ts.png" /> TS
 
-
+<br />
 
 <a href="https://www.linkedin.com/in/arashaltafi">
   <img align="left" alt="Arash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/linkedin.png" />
