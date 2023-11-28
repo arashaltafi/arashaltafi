@@ -4,7 +4,11 @@
 - 🔭 I’m currently working on my own projects
 - 👯 I’m looking to collaborate on Open Sources
 - 📫 How to reach me: [www.arashaltafi.ir](https://arashaltafi.ir/) or [arashaltafi1377@gmail.com](mailto:arashaltafi1377@gmail.com)
--   NodeJs <img align="left" alt="Arash Altafi Telegram" width="22px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/node.png" />
+-   <img align="left" alt="Arash Altafi Telegram" width="22px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/android.png" /> Android
+-   <img align="left" alt="Arash Altafi Telegram" width="22px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/js.png" /> JS
+-   <img align="left" alt="Arash Altafi Telegram" width="22px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/react.png" /> React
+-   <img align="left" alt="Arash Altafi Telegram" width="22px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/node.png" /> NodeJs
+-   <img align="left" alt="Arash Altafi Telegram" width="22px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/ts.png" /> TS
 
 <a href="https://www.linkedin.com/in/arashaltafi">
   <img align="left" alt="Arash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/linkedin.png" />
