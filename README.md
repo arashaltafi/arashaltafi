@@ -8,7 +8,7 @@
   <img align="left" alt="Arash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
 </a>
 <a href="https://t.me/arash_altafi">
-  <img align="left" alt="Arash Altafi Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Arash Altafi Telegram" width="22px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/telegram.png" />
 </a>
 <a href="https://www.instagram.com/arashaltafi/">
   <img align="left" alt="Arash's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
