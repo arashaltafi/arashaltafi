@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 💻 Android(Java, Kotlin), Frontend(React), Backend(NodeJs)
 - 🔭 I’m currently working on my own projects
 - 👯 I’m looking to collaborate on Open Sources
 - 📫 How to reach me: [www.arashaltafi.ir](https://arashaltafi.ir/) or [arashaltafi1377@gmail.com](mailto:arashaltafi1377@gmail.com)
