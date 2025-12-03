@@ -5,10 +5,9 @@
 - 👯 I’m looking to collaborate on Open Sources
 - 📫 How to reach me: [www.arashaltafi.ir](https://arashaltafi.ir/) or [arashaltafi1377@gmail.com](mailto:arashaltafi1377@gmail.com)
 -   <img align="left" alt="Arash Altafi Telegram" width="22px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/android.png" /> Android(Java, Kotlin)
--   <img align="left" alt="Arash Altafi Telegram" width="22px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/js.png" /> JS
+-   <img align="left" alt="Arash Altafi Telegram" width="22px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/js.png" /> JavaScript, TypeScript
 -   <img align="left" alt="Arash Altafi Telegram" width="22px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/react.png" /> ReactJs, NextJs
--   <img align="left" alt="Arash Altafi Telegram" width="22px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/node.png" /> NodeJs, ExpressJs
--   <img align="left" alt="Arash Altafi Telegram" width="22px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/ts.png" /> TS
+-   <img align="left" alt="Arash Altafi Telegram" width="22px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/node.png" /> NodeJs, NestJs
 
 <br />
 
